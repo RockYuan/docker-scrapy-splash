@@ -1,3 +1,3 @@
 # docker-scrapy-splash
 
-scrapy + splash + python3
+scrapy + splash + python3 
